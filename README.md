@@ -1,0 +1,1 @@
+[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7f4f0dff-864d-46e4-a662-8eda618a9784.jpeg?v=1788375592)](https://www.boot.dev/certificates/7f4f0dff-864d-46e4-a662-8eda618a9784)
